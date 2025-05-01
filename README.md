@@ -107,7 +107,7 @@ for the backup-mainsail.json go to settings and restore. this will geve you a be
 
 ![image](https://github.com/user-attachments/assets/2b44681d-eef4-4a0a-b7ed-48b44488b696)
 
-to get input shaper working you need to switch to mainline or use the BIGTREETECH S2DW V1.0 or the Co-Print Input Shaper Module.
+# to get input shaper working you need to switch to mainline or use the BIGTREETECH S2DW V1.0 or the Co-Print Input Shaper Module.
 
 
 
