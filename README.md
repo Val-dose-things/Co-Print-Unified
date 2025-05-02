@@ -24,15 +24,15 @@ if you have more then 4 you need ecm_1.cfg. more then 8 you need ecm_2.cfg. and 
 you should update the devices to
 use /dev/serial/by-id/
 
-Unplug the KCM/Chroma pad usb and then run this in the ssh shell.
+Unplug the KCM usb and then run this in the ssh shell.
 
 ```ls -la /dev/serial/by-id/```
 This will show the host mcu
 
-Then plug in the KCM/Chroma pad usb with the toolhead disconnected
+Then plug in the KCM usb with the toolhead disconnected
 
 ```ls -la /dev/serial/by-id/```
-The new one is the KCM/Chroma pad mcu
+The new one is the KCM pad mcu
 
 Plug in the toolhead
 
