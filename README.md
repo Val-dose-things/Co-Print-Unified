@@ -21,6 +21,8 @@ if you have more then 4 you need ecm_1.cfg. more then 8 you need ecm_2.cfg. and 
 
 ---------------------------
 
+i like to use PuTTY https://www.putty.org/
+
 you should update the devices to
 use /dev/serial/by-id/
 
