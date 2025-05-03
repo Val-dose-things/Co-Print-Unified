@@ -12,7 +12,9 @@ basic macros and configs for all printers.
 place all files into your config folder of your printer. 
 
 # use the offical wiki for more help:
+
 https://wiki.coprint3d.com/orcaslicer
+
 https://github.com/coprint
 
 if you have more then 4 you need ecm_1.cfg. more then 8 you need ecm_2.cfg. and so on
