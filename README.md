@@ -19,8 +19,6 @@ https://github.com/coprint
 
 if you have more then 4 you need ecm_1.cfg. more then 8 you need ecm_2.cfg. and so on
 
-#here are some modles i made to help fix issues with the stock options.
-
 ---------------------------
 
 i like to use PuTTY https://www.putty.org/
